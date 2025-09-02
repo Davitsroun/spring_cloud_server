@@ -1,2 +1,5 @@
 server: 
   port: 8888
+  datasource:
+    username: myuser
+    password: "{cipher}819fd409c304681b679b5e9dd1dc8c1a3d2954d5879d07af1fef354ab3d43d06"
